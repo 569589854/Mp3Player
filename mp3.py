@@ -16,7 +16,7 @@ import urllib
 import json
 import sys
 import random
-sys.path.append('E:\Python27\Lib')
+sys.path.append('F:\Python27\Lib')
 import mp3play
 import time
 import threading
