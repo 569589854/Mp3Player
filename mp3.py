@@ -27,7 +27,7 @@ global play_or_not
 # chrome_options.add_argument('--headless')
 # driver = webdriver.Chrome()
 
-#不打开浏览器测试
+# 不打开浏览器测试
 option = webdriver.ChromeOptions()
 option.add_argument("headless")
 driver = webdriver.Chrome(chrome_options=option)
